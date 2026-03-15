@@ -33,10 +33,10 @@
 
 #### 测试概览
 以下为自动化测试执行的 Dashboard 统计：
-![Allure Dashboard](reports/screenshots/首页概览.png)
+![Allure Dashboard](report/screenshots/首页概览.png)
 
 #### 详细执行轨迹
 报告详细记录了接口的 Request 参数、Response 返回以及每一步的业务逻辑断言。
-![Allure Detail](reports/screenshots/用例详情.png)
+![Allure Detail](report/screenshots/用例详情.png)
 
 ### 项目声明：本仓库代码仅用于个人测试开发技能的实践与展示。
